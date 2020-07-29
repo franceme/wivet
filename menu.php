@@ -21,6 +21,8 @@
       <div class="menulink"><a href="<?php echo $_SESSION['baseaddr']; ?>offscanpages/statistics.php" target="body">Statistics</a></div>
       <div class="menulink"><a href="<?php echo $_SESSION['baseaddr']; ?>offscanpages/current.php">Current Run</a></div>
       <div class="menulink"><a href="<?php echo $_SESSION['baseaddr']; ?>offscanpages/about.php">About</a></div>
-			<div class="menulink"><a href="<?php echo $_SESSION['baseaddr']; ?>logout.php">Logout</a></div>
+			<!--
+      <div class="menulink"><a href="<?php echo $_SESSION['baseaddr']; ?>logout.php">Logout</a></div>
+      -->
     </div>
 
