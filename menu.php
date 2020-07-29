@@ -15,6 +15,7 @@
           if(strcmp($v,"100.php") != 0)
             echo "<div class='menulink'><a href='".$v."'>".$v."</a></div>";
         }
+        //clearScans();
       ?>      
       <div class="menulink">&nbsp;</div>
       <div class="menulink">&nbsp;</div>
